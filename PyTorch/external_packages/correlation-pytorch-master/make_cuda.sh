@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 cd correlation-pytorch/correlation_package/src
 echo "Compiling correlation layer kernels by nvcc..."
